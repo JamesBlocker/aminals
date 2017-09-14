@@ -1,0 +1,43 @@
+.choose {
+    text-align: center;
+}
+
+.lion-panel {
+    display: none;
+}
+
+.tiger-panel {
+    display: none;
+}
+
+.bear-panel {
+    display: none;
+}
+
+.middle {
+    text-align: center;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.lions {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.tigers {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.bears {
+  cursor: pointer;
+  color: #0088cc;
+}
